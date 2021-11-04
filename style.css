@@ -1,0 +1,12 @@
+.jumbotron {
+  padding-top: 7rem;
+  background: rgb(88, 120, 185);
+  background: linear-gradient(0deg, rgba(88, 120, 185, 1) 0%, rgba(88, 164, 176, 1) 76%);
+  color: white;
+}
+body {
+  font-family: 'Poppins';
+}
+section {
+  padding-top: 5rem;
+}
